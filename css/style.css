@@ -73,6 +73,16 @@ ul>li{
     border: 2px dashed black;
 }
 
-.bg_blue{
-    background-color: blue;
+
+.section-blue{
+    background-color:#00008b ;
+    height: 300px;
+}
+
+.jumbotron{
+    background-color:#ee82ee ;
+    width: 50%;
+    margin: 0 auto;
+    height: 100%;
+    max-width: 1200px;
 }
