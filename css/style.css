@@ -14,7 +14,7 @@ nav ul{
 }
 
 header{
-    height: 100px;
+    height: 75px;
     background-color: #add8e6;
 }
 
@@ -35,9 +35,9 @@ nav{
 }
 
 nav>ul{
-    width: 80%;
+    width: 68%;
     margin: 0 auto;
-    background-color:yellow;
+    background-color:#daa520;
 }
 
 .item-left,.item-right{
@@ -53,6 +53,10 @@ nav>ul{
     justify-content: flex-start;
 }
 
+.item-center{
+    width: 60%;
+}
+
 .justify-center{
     justify-content: center;
 }
@@ -62,6 +66,9 @@ nav>ul{
 }
 
 ul>li{
-    padding: 10px;
+    padding: 5px;
 }
 
+.items-border{
+    border: 2px dashed black;
+}
