@@ -102,7 +102,6 @@ ul>li{
     height: 100%;
     width: 70%;
     margin: 0 auto;
-    background-color: aqua;
 }
 
 .blue-box{
@@ -124,4 +123,40 @@ ul>li{
 
 .bg-gray{
     background-color:#d3d3d3 ;
+}
+
+.section-big{
+    height: 600px;
+    padding: 35px;
+    background-color: gray;
+}
+
+.green-box{
+    width: 70%;
+    height: 100%;
+    background-color: green;
+    margin: 0 auto;
+    border: 2px dashed black;
+}
+
+.bg-black{
+    background-color: black;
+}
+
+.section.bg-black{
+    padding-top: 10px;
+    height: 450px;
+    background-color: black;
+}
+
+.acqua-box{
+    width: 17%;
+    background-color:#20b2aa ;
+    border: 1px dashed black;
+}
+
+.magenta-box{
+    width: 32%;
+    background-color:#f08080 ;
+    border: 1px dasheda black;
 }
