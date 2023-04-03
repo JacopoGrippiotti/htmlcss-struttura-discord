@@ -122,3 +122,6 @@ ul>li{
     flex-direction: row-reverse;
 }
 
+.bg-gray{
+    background-color:#d3d3d3 ;
+}
