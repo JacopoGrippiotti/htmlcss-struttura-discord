@@ -74,9 +74,10 @@ ul>li{
 }
 
 
-.section-blue{
+.section-jumbotron{
     background-color:#00008b ;
-    height: 300px;
+    height: 400px;
+    padding: 40px;
 }
 
 .jumbotron{
@@ -85,4 +86,39 @@ ul>li{
     margin: 0 auto;
     height: 100%;
     max-width: 1200px;
+    border: 2px dashed black;
 }
+
+.bg_white{
+    background-color: white;
+}
+
+.section{
+    height: 360px;
+    padding: 35px;
+}
+
+.container{
+    height: 100%;
+    width: 70%;
+    margin: 0 auto;
+    background-color: aqua;
+}
+
+.blue-box{
+    width: 60%;
+    background-color: #1e90ff;
+    border: 2px dashed black;
+}
+
+.pink-box{
+    width: 40%;
+    background-color: #ffc0cb;
+    border: 2px dashed black;
+}
+
+.flex-reverse{
+    display: flex;
+    flex-direction: row-reverse;
+}
+
