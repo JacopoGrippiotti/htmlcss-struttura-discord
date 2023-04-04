@@ -95,7 +95,7 @@ ul>li{
 
 .section{
     height: 500px;
-    padding: 35px;
+    padding: 35px 0px;
 }
 
 .container{
@@ -127,7 +127,7 @@ ul>li{
 
 .section-big{
     height: 600px;
-    padding: 35px;
+    padding: 35px 0px;
     background-color: gray;
 }
 
@@ -165,11 +165,6 @@ hr{
     color: white;
 }
 
-footer{
-    height: 80px;
-    padding: 15px 35px 0px;
-}
-
 .bg-acqua{
     background-color:#7fffd4 ;
 }
@@ -178,4 +173,9 @@ footer{
     background-color: #ffb6c1;
     padding: 5px 0px;
     border: 2px dashed black;
+}
+
+.section-bottom-footer{
+    height: 70px;
+    margin-top: 20px;
 }
